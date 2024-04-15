@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Sen, welcome to my Github profile
+### Hi there 👋, Welcome to my Github profile. My name is Sen.
 
 ## About me 🌱
 I'm a FullStack Web Developer. Over the past 4 years, I've honed my skills in PHP (Laravel, Symfony , and other frameworks), MySQL, JQuery, HTML, CSS, Javascript (which include frameworks like NextJS, Vue, Angular)  and contributed to numerous successful projects.
