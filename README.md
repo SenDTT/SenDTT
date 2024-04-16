@@ -4,10 +4,13 @@
 I'm a FullStack Web Developer. Over the past 4 years, I've honed my skills in PHP (Laravel, Symfony , and other frameworks), MySQL, JQuery, HTML, CSS, Javascript (which include frameworks like NextJS, Vue, Angular)  and contributed to numerous successful projects.
 
 ## Skills ✨
-- Languages: PHP, JavaScript, MySQL, HTML, CSS, JQuery
+- Languages: PHP, JavaScript, MySQL, HTML, CSS, JQuery, Typescript
 - JS Frameworks: React, Angular, Vue, NextJS, React Native
 - PHP Frameworks: Laravel, Symfony, Yii
 - Database: MySQL
+- OOP development.
+- Homestead and Docker
+- Apache and Nginx
 
 ## Notable Projects ✨
 
