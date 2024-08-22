@@ -1,7 +1,7 @@
 ### Hi there 👋, Welcome to my Github profile. My name is Sen.
 
 ## About me 🌱
-I'm a FullStack Web Developer. Over the past 5 years, I've honed my skills in PHP (Laravel, Symfony , and other frameworks), MySQL, JQuery, HTML, CSS, Javascript (which include frameworks like NextJS, Vue, Angular)  and contributed to numerous successful projects.
+I have more than 5 years of experience as a PHP Full-Stack Web Developer, handling both front-end and back-end tasks. I’m proficient in PHP, JavaScript, and TypeScript, and have worked with frameworks such as Laravel, Yii, Symfony, ReactJS, Next.js, Vue.js, and Angular. I’ve developed features for websites, web apps, and e-commerce projects. I’m eager to work hard and learn new technologies.
 
 ## Skills ✨
 - Languages: PHP, JavaScript, MySQL, HTML, CSS, JQuery, Typescript
