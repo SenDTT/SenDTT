@@ -12,7 +12,7 @@ I have more than 5 years of experience as a PHP Full-Stack Web Developer, handli
 - Homestead and Docker
 - Apache and Nginx
 
-## Notable Projects ✨
+## Projects ✨
 
 - **[Topdev - Top IT jobs for developers](https://topdev.vn/):** (October 2023 - present) Developing a website that would link job seekers and businesses for IT positions. we are also creating online applications for companies looking to identify potential candidates and handle all of their job applications.
   - Using the Laravel framework, jQuery, HTML, and CSS to develop and maintain the web app for admins.
