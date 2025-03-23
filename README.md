@@ -46,6 +46,6 @@ I have more than 5 years of experience as a PHP Full-Stack Web Developer, handli
 
 ## Contacts ✨
 - LinkedIn: [Linkedin](https://www.linkedin.com/in/sen-doan/)
-- Email: [mariathanhsen@gmail.com](mariathanhsen@gmail.com)
+- Email: [sendoan.sophie@gmail.com](sendoan.sophie@gmail.com)
 
 
