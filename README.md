@@ -66,7 +66,7 @@
 </p>
 
 <div align="center">
-  <a href="https://www.leetcode.com/sendoan" target="_blank"><img src="https://img.shields.io/badge/-Leetcode-2EC866?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
+  <a href="https://www.leetcode.com/sendoan" target="_blank"><img src="https://img.shields.io/badge/-Leetcode-RRGGBB?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
   </a>
   <a href="https://www.linkedin.com/in/sendoan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
