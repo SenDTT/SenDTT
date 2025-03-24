@@ -6,7 +6,7 @@
 
 <div align="center">
     <a href="https://github.com/SenDTT">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=SenDTT&data=followers,repositories,stars,commits&theme=light" alt="sendoan's - GitHub Widgetbox" width="90%" height="0%">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=SenDTT&data=followers,repositories,stars,commits&theme=dark" alt="sendoan's - GitHub Widgetbox" width="90%" height="0%">
     </a>
 </div>
 
