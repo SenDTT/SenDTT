@@ -61,7 +61,7 @@
 
 <p align="center"> 
   <a style="text-decoration:none" href="https://leetcode.com/sendoan/" target="_blank">
-    <img style="width:60%" src="https://leetcard.jacoblin.cool/sendoan?theme=nord&font=Ubuntu"/>
+    <img style="width:60%" src="https://leetcard.jacoblin.cool/sendoan?theme=nord&font=Ubuntu&radius=25"/>
   </a>
 </p>
 
