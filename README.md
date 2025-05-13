@@ -6,14 +6,14 @@
 
 <div align="center">
     <a href="https://github.com/SenDTT">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=SenDTT&data=followers,repositories,stars,commits&theme=mountain" alt="sendoan's - GitHub Widgetbox" width="90%" height="0%">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=SenDTT&data=followers,repositories,stars,commits" alt="sendoan's - GitHub Widgetbox" width="90%" height="0%">
     </a>
 </div>
 
 <div align="center"> 
    <h2> 💻 Tech Stack </h2>
 </div>
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox)
+
 <div align="center">
 <h3>🛠️ Programming Languages</h3>
 <details open>
