@@ -1,7 +1,5 @@
 ## 👋 Hi, I’m Sen.
 
-## ☎ Contact me
-
 ### 📫 How to reach me?
 
 - Email: <a href="mailto:sendoan.sophie@gmail.com">sendoan.sophie@gmail.com</a>
